@@ -12,6 +12,8 @@
 #include "Components/BoxComponent.h"
 #include "Components/AudioComponent.h"
 #include "Components/SceneComponent.h"
+#include "GameFramework/SpringArmComponent.h"
+#include "Camera/CameraComponent.h"
 
 //Gameplay and Input
 #include "GameFramework/Actor.h"
