@@ -14,6 +14,7 @@
 #include "Components/SceneComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "Components/ArrowComponent.h"
 
 //Gameplay and Input
 #include "GameFramework/Actor.h"
