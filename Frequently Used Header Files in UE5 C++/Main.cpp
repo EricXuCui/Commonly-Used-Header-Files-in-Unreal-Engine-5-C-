@@ -33,6 +33,7 @@
 //Math and Debugging
 #include "DrawDebugHelpers.h"              // Drawing debug lines/shapes.
 #include "Kismet/KismetMathLibrary.h"      // Advanced math helpers.
+#include "Math/UnrealMathUtility.h"        // Clamp
 
 //Blueprint Support
 #include "UObject/ConstructorHelpers.h"    // Find assets at runtime.
